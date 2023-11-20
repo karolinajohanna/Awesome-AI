@@ -180,6 +180,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Kono](http://kono.ai/) — meeting scheduling assistant
 * [Lifos](http://simples.ai/) — dynamic independent entities that interact with the web and social
 * [Ling](http://ling.ai/en/) — similar to Amazon Echo
+* [Soffos.ai](https://www.soffos.ai) - 
 * [Luka](https://luka.ai/) — chatbot messenger for people and other chatbots
 * [Lyra](https://lyr.ai) — monitor analyse your carbon emissions
 * [Magic](https://getmagic.com/) - Magic is a special phone number you text to get anything you want, hassle free
